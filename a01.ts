@@ -124,3 +124,8 @@ function warnUser2(): undefined {
   console.log("This is my warning message");
   return; // MUST add this line
 }
+
+let unusable: void = undefined;
+let unusable_: void;
+let unusable2: undefined = undefined;
+let unusable2a: undefined;
