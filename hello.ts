@@ -3,3 +3,6 @@ function greet(person: string) {
 }
 
 console.log(greet("TypeScript"));
+
+let x = 1;
+console.log(x);
