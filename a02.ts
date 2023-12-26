@@ -1,3 +1,4 @@
+/* 1.object 类型*/
 interface ObjectConstructor {
   create(o: object | null | string): any;
   // ...
